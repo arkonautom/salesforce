@@ -1,4 +1,5 @@
-#Nikita arkonautom@gmail.com Apr 25, 2023
+#0.0.1 arkonautom@gmail.com Apr 25, 2023
+
 #import os
 #os.system("cls")
 
